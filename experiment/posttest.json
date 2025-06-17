@@ -1,38 +1,55 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The quantity 1/(ne) where 'n' is the number density of charge carriers and 'e' is the electric charge represents.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thomson effect",
+        "b": "Joule effect",
+        "c": "Hall coefficient",
+        "d": "Peltier effect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation for Thomson effect",
+        "b": "Explanation for Joule effect",
+        "c": "Explanation for Hall coefficient",
+        "d": "Explanation for Peltier effect"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Negative Hall coefficient indicates that the charge carriers are.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Holes",
+        "b": "Electrons",
+        "c": "Both holes and electrons",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation for Holes",
+        "b": "Explanation for Electrons",
+        "c": "Explanation for Both",
+        "d": "Explanation for None"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Hall coefficient RH for a sample material is independent of.",
+      "answers": {
+        "a": "Number density of charge carriers.",
+        "b": "Temperature.",
+        "c": "Nature of material.",
+        "d": "Dimensions of material."
+      },
+      "explanations": {
+        "a": "Explanation for number density",
+        "b": "Explanation for temperature",
+        "c": "Explanation for nature of material",
+        "d": "Explanation for dimensions"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
