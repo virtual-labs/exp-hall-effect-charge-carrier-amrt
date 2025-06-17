@@ -9,12 +9,7 @@
         "c": "Hall coefficient",
         "d": "Peltier effect"
       },
-      "explanations": {
-        "a": "Explanation for Thomson effect",
-        "b": "Explanation for Joule effect",
-        "c": "Explanation for Hall coefficient",
-        "d": "Explanation for Peltier effect"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Both holes and electrons",
         "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation for Holes",
-        "b": "Explanation for Electrons",
-        "c": "Explanation for Both",
-        "d": "Explanation for None"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "Nature of material.",
         "d": "Dimensions of material."
       },
-      "explanations": {
-        "a": "Explanation for number density",
-        "b": "Explanation for temperature",
-        "c": "Explanation for nature of material",
-        "d": "Explanation for dimensions"
-      },
+     
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
