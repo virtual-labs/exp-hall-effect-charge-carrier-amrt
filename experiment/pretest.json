@@ -2,37 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The experiment which directly determines both the sign and density of charge carriers in a sample material is.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Four probe method",
+        "b": "Hall experiment",
+        "c": "Quincke's method",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If a current carrying conductor is placed in a perpendicular magnetic field, a potential difference will generate in the conductor which is perpendicular to both magnetic field and current. This phenomenon is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Peltier effect",
+        "b": "Joule effect",
+        "c": "Thomson effect",
+        "d": "Hall effect"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
