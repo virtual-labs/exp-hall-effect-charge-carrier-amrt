@@ -9,12 +9,7 @@
         "c": "Quincke's method",
         "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation for Four probe method",
-        "b": "Explanation for Hall experiment",
-        "c": "Explanation for Quincke's method",
-        "d": "Explanation for None of these"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Thomson effect",
         "d": "Hall effect"
       },
-      "explanations": {
-        "a": "Explanation for Peltier effect",
-        "b": "Explanation for Joule effect",
-        "c": "Explanation for Thomson effect",
-        "d": "Explanation for Hall effect"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
