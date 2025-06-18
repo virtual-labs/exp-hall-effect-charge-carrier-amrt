@@ -83,7 +83,7 @@ by rearranging eq(4) we get
 $$R_H = \frac{V_H \cdot t}{I \cdot B}...........(5)$$
 
 
-Where RH is called the Hall coefficient.
+Where $R_H$ is called the Hall coefficient.
 
 $$R_H=\frac{1}{ne}..............(6)$$
 
