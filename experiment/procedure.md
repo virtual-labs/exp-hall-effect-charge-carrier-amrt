@@ -70,7 +70,7 @@ In this part of the experiment, you will determine the magnetic field generated 
 
 ---
 
-## Part B: Determination of Hall Coefficient and Carrier Concentration
+### Part B: Determination of Hall Coefficient and Carrier Concentration
 
 #### Step 1: Select the Hall Effect Setup
 
